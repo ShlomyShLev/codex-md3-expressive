@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "codex-md3-expressive": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["./mcp-server/server.js"],
+      "cwd": "."
+    }
+  }
+}

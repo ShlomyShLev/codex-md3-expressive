@@ -1,0 +1,14 @@
+interface:
+  display_name: "Codex MD3 Expressive"
+  short_description: "MD3 components, tokens, and accessibility checks"
+  default_prompt: "Use $codex-md3-expressive to build or review this interface with the MD3 MCP tools."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "codex-md3-expressive"
+      description: "Local MD3 tokens, components, linter, checklist, and contrast tools"
+      transport: "stdio"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,13 @@
+{
+  "name": "codex-md3-expressive",
+  "plugins": [
+    {
+      "name": "codex-md3-expressive",
+      "version": "0.1.0",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Developer Tools",
+      "interface": { "displayName": "Codex MD3 Expressive" }
+    }
+  ]
+}

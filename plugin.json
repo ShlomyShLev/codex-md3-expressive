@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "codex-md3-expressive",
+  "version": "0.1.0",
+  "description": "Material Design 3 Expressive for Codex: design skill, accessible components, and local MCP checks.",
+  "author": { "name": "Shlomo Shema", "url": "https://github.com/ShlomyShLev" },
+  "homepage": "https://github.com/ShlomyShLev/codex-md3-expressive",
+  "repository": "https://github.com/ShlomyShLev/codex-md3-expressive",
+  "license": "MIT",
+  "keywords": ["codex", "material-design", "md3", "expressive", "accessibility"]
+}

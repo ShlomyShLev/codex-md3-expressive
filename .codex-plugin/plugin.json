@@ -1,0 +1,19 @@
+{
+  "name": "codex-md3-expressive",
+  "version": "0.1.0",
+  "description": "Material Design 3 Expressive for Codex: design skill, accessible components, and local MCP checks.",
+  "author": { "name": "Shlomo Shema", "url": "https://github.com/ShlomyShLev" },
+  "homepage": "https://github.com/ShlomyShLev/codex-md3-expressive",
+  "repository": "https://github.com/ShlomyShLev/codex-md3-expressive",
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Codex MD3 Expressive",
+    "shortDescription": "MD3 components, tokens, and accessibility checks",
+    "longDescription": "Build Material Design 3 Expressive interfaces using purpose-correct typography, reusable accessible components, theme tokens, and local MCP lint and contrast checks.",
+    "developerName": "Shlomo Shema",
+    "category": "Developer Tools",
+    "defaultPrompt": ["Use Codex MD3 Expressive to build or review this interface."]
+  }
+}
